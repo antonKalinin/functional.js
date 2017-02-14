@@ -1,0 +1,8 @@
+{
+  "name": "functional.js",
+  "version": "1.0.0",
+  "description": "Done exercises from Mostly Adequate Guide To Functional Programming",
+  "dependencies": {
+    "ramda": "^0.22.1"
+  }
+}
